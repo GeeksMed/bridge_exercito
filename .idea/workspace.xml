@@ -4,11 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9959526-cf30-4642-868f-9bb2c3ac8090" name="Changes" comment="" />
+    <list default="true" id="f9959526-cf30-4642-868f-9bb2c3ac8090" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/padroescomportamentais/bridge/Cabo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/padroescomportamentais/bridge/CategoriaA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/padroescomportamentais/bridge/CategoriaB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/padroescomportamentais/bridge/Habilitacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/padroescomportamentais/bridge/PrimeiroSargento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/padroescomportamentais/bridge/SegundoSargento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/padroescomportamentais/bridge/Subtenente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/padroescomportamentais/bridge/TerceiroSargento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/padroescomportamentais/bridge/PrimeiroSargentoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/padroescomportamentais/bridge/SegundoSargentoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/padroescomportamentais/bridge/SubtenenteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/padroescomportamentais/bridge/TerceiroSargentoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/padroescomportamentais/bridge/Posto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/padroescomportamentais/bridge/Posto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/padroescomportamentais/bridge/PostoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/padroescomportamentais/bridge/CaboTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NWQeLuVJ0MnxDjT4hLsx95FvD3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +51,101 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="padroescomportamentais.bridge" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.padroescomportamentais.bridge in bridge_exercito">
+    <configuration name="PrimeiroSargentoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bridge_exercito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="padroescomportamentais.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="padroescomportamentais.bridge" />
+      <option name="MAIN_CLASS_NAME" value="padroescomportamentais.bridge.PrimeiroSargentoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeiroSargentoTest.deveRetornarSalarioPrimeiroSargentoCategoriaA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bridge_exercito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="padroescomportamentais.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="padroescomportamentais.bridge" />
+      <option name="MAIN_CLASS_NAME" value="padroescomportamentais.bridge.PrimeiroSargentoTest" />
+      <option name="METHOD_NAME" value="deveRetornarSalarioPrimeiroSargentoCategoriaA" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SegundoSargentoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bridge_exercito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="padroescomportamentais.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="padroescomportamentais.bridge" />
+      <option name="MAIN_CLASS_NAME" value="padroescomportamentais.bridge.SegundoSargentoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubtenenteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bridge_exercito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="padroescomportamentais.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="padroescomportamentais.bridge" />
+      <option name="MAIN_CLASS_NAME" value="padroescomportamentais.bridge.SubtenenteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="padroescomportamentais.bridge in bridge_exercito" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bridge_exercito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="padroescomportamentais.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="padroescomportamentais.bridge" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.padroescomportamentais.bridge in bridge_exercito" />
+        <item itemvalue="JUnit.SubtenenteTest" />
+        <item itemvalue="JUnit.PrimeiroSargentoTest" />
+        <item itemvalue="JUnit.PrimeiroSargentoTest.deveRetornarSalarioPrimeiroSargentoCategoriaA" />
+        <item itemvalue="JUnit.SegundoSargentoTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +156,16 @@
       <updated>1679777452791</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
